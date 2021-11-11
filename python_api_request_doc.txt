@@ -11,13 +11,13 @@
 }
 
 ##### test user email  and password#####
- e-mai = eugene@gmail.com
+e-mai = eugene@gmail.com
 pass = kigali@123
 
 ##### using your credentials got to ##########
- https://tahuraa.rw/register
+ https://tahura.rw/register
 
-then use the email and the pass 
+then use your email and  pass 
 
 
 
