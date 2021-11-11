@@ -1,0 +1,23 @@
+#response 
+{
+    'message': 'welome, user logged in succcesfully ',
+    'data': {
+                'user': 'JpySxZJkvBtT',
+                'jwt': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MzQ1ODQ2NjcsImV4cCI6MTYzNDU4ODI2NywiaXNzIjoiaHR0cHM6XC9cL3RhaHVyYS5ydyIsImRhdGEiOnsiaWQiOiIyOSIsInVzZXJfaWQiOiJKcHlTeFpKa3ZCdFQiLCJmaXJzdF9uYW1lIjoibmt1cnVueml6YSIsInNlY29uZF9uYW1lIjoiZXVnZW5lIiwiZV9tYWlsIjoiZXVnZW5lQGdtYWlsLmNvbSJ9fQ.8dWmTnNpgipwjM9DqeJCPiUBW_NLvRYKLuGy-IRCo7A',
+                'jwt_exp': 1634588267,
+                'provider': 'https://tahura.rw'
+            },
+    'status': 200
+}
+
+##### test user email  and password#####
+ e-mai = eugene@gmail.com
+pass = kigali@123
+
+##### using your credentials got to ##########
+ https://tahuraa.rw/register
+
+then use the email and the pass 
+
+
+
